@@ -1,3 +1,8 @@
+/*
+This will allow you to test the ultrasonic sensor with the MKR1000. It finds the distance, and prints an average value of the distance in centimeters
+*/
+
+
 int trigPin = 7;    // Trigger
 int echoPin = 6;    // Echo
 long duration, cm;
