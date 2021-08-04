@@ -1,3 +1,5 @@
+# This is the python file for the custom MKR1000 part for the DonkeyCar. You need to edit your MKR1000's serial port in the Raspberry Pi, and place it in the mycar directory.
+
 import serial
 import time
 
