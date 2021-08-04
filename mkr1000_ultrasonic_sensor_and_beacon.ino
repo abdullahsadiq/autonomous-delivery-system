@@ -1,3 +1,7 @@
+/*
+This is the final code you will need to upload to the MKR1000 before you connect it to the Raspberry Pi. Make sure to replace the minimumValue and maximumValue to what you found!
+*/
+
 //Replace these with minimum and values you found
 int minimumValue = 6;
 int maximumValue = 12;
